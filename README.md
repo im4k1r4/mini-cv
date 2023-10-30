@@ -14,6 +14,9 @@ Este é um projeto de mini cartão de visitas desenvolvido como parte do aprendi
 
 # [Business Card](https://im4k1r4.github.io/mini-cv/)<a name="en"></a>
 
+## Demo
+![Demonstração do Mini Cartão de Visitas](https://github.com/im4k1r4/mini-cv/blob/main/src/images/demo-project.gif)
+
 ## Description 
 This is a mini business card project developed as part of learning HTML, CSS, and JavaScript. The goal of the project is to create a simple and interactive page that serves as a digital business card.
 
